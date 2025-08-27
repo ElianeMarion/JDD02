@@ -1,0 +1,16 @@
+
+ˆ
+java:S1659"EDeclare "telefone" and all following declarations on a separate line.(ßı¨÷8û‰¬Æ3J$05e6566e-6e86-4d3a-9191-996670f7f1a6
+l
+java:S1481")Remove this unused "nome" local variable.(ßı¨÷8ı‰¬Æ3J$49bf7211-1b00-42aa-84a0-5eac1c53a74d
+p
+java:S1481"-Remove this unused "telefone" local variable.(ßı¨÷8ı‰¬Æ3J$a7e974f1-4622-4875-bbca-182f82c3f8e3
+m
+java:S1481"*Remove this unused "email" local variable.(ßı¨÷8ı‰¬Æ3J$26f13663-8f17-42a5-936f-f464177d9d63
+r	java:S106"+Replace this use of System.out by a logger.(è¤¼şÿÿÿÿ8Š¬Æ3J$a4944c61-1430-4342-a8e3-08ba377840cc
+~	java:S125
+"<This block of commented-out lines of code should be removed.(­Õ‰³8Š¬Æ3J$f1e1d956-0009-42d9-8215-ab9b38f32c2e
+m	java:S106"+Replace this use of System.out by a logger.(‰ô±¡8“Š¬Æ3J$da4fde01-44ff-4d5a-a607-4c07fc1aac57
+r	java:S106"+Replace this use of System.out by a logger.(Ë“î½üÿÿÿÿ8“Š¬Æ3J$1e9cb134-3785-41c1-90c8-60f7136bc680
+~	java:S125"<This block of commented-out lines of code should be removed.(¼¡ú÷8”Š¬Æ3J$4dfeaf61-a4f5-40e9-88ec-a645b6d084fa
+r	java:S106"+Replace this use of System.out by a logger.(¬Ëüüÿÿÿÿ8”Š¬Æ3J$004cb27b-5cb2-45b6-9464-6883b8c181c1

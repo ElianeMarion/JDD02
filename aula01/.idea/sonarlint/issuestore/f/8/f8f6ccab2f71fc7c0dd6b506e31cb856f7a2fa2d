@@ -1,0 +1,18 @@
+
+€
+java:S1854 "=Remove this useless assignment to local variable "notaAluno".(´Ä£†8Ä¯ßÅŽ3J$919936e1-79df-4c38-8bdf-ba3c223e9704
+ƒ
+java:S1854"@Remove this useless assignment to local variable "idadeDoAluno".(”Ž—‚8ûßÓÅŽ3J$416b467b-f3fd-4cbd-8d2e-f3e8dd14b6f9
+m	java:S106
+"+Replace this use of System.out by a logger.(Â”˜Á8ýßÓÅŽ3J$be8fba25-ded5-4bd8-9d36-819111bcc3ed
+m	java:S106"+Replace this use of System.out by a logger.(Ô¶§ö8þßÓÅŽ3J$c436ca05-80d4-4d54-ba5a-8b3b0f217fcd
+m	java:S106"+Replace this use of System.out by a logger.(ŒÐæë8ÿßÓÅŽ3J$10797b66-209b-413b-a78a-0cfd1d1849cb
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(§úÇˆþÿÿÿÿ8ÿßÓÅŽ3J$d27f7507-da67-4991-93f4-1d12798a1249
+q
+java:S1481 ".Remove this unused "notaAluno" local variable.(´Ä£†8Ì¯ßÅŽ3J$f8f3c36c-ebfa-443e-b144-712a448d38e9
+n
+java:S1481!"+Remove this unused "casado" local variable.(ÉÏ™¬8àÓÅŽ3J$b10fc92b-0c65-42e6-adfb-a229715953ca
+m	java:S106'"+Replace this use of System.out by a logger.(Ž­•8„àÓÅŽ3J$db9131d9-0bdb-4f3e-b7a8-0f07e283caa3
+r	java:S106+"+Replace this use of System.out by a logger.(ŸÛœ§øÿÿÿÿ8ûõëÅŽ3J$01a41041-4edd-4db2-9c75-307dfa1e34f7
+ƒ	java:S125)"<This block of commented-out lines of code should be removed.(…š•ñÿÿÿÿÿ8äÙëÅŽ3J$b2f2e3d6-af0d-41c8-888e-82ec9da8d50f
+r	java:S106-"+Replace this use of System.out by a logger.(×ÿßûûÿÿÿÿ8üõëÅŽ3J$d4888124-d2ba-47be-989c-0bb21cc920c5

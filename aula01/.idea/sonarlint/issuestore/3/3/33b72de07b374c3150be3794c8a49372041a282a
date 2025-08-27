@@ -1,0 +1,17 @@
+
+}
+java:S1854"5Remove this useless assignment to local variable "x".(ÜÃ™çüÿÿÿÿ8Éï®Ç3J$80d38d53-6d49-4e4b-9a61-80c13398195f
+€
+java:S1659">Declare "b" and all following declarations on a separate line.(ìıêC8·‹¢Ç3J$b17cee65-76ba-48d6-928b-ac8c9bc472d7
+g
+java:S1659"$Declare "result" on a separate line.(„ÿ»­8¸‹¢Ç3J$7f373a25-34cd-4080-b635-a530755e8d9c
+l	java:S106"+Replace this use of System.out by a logger.(ğ®ò8¹‹¢Ç3J$9824abe9-c543-46f9-8f7d-646dd2fca69a
+r	java:S106
+"+Replace this use of System.out by a logger.(Ïô¢©úÿÿÿÿ8º‹¢Ç3J$c7eeefa9-0013-4399-b593-0d057b4646b8
+r	java:S106"+Replace this use of System.out by a logger.(œş¼şÿÿÿÿ8º‹¢Ç3J$9fec238f-591b-43b9-8b79-73e79bc10a44
+r	java:S106"+Replace this use of System.out by a logger.(µÏ…èùÿÿÿÿ8º‹¢Ç3J$4831d210-7c75-4674-bc02-2a79d0c7bddf
+r	java:S106"+Replace this use of System.out by a logger.(µÏ…èùÿÿÿÿ8º‹¢Ç3J$d4ed4f90-c14e-4245-8abf-7d2675928ecb
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(«Ôøÿÿÿÿ8»‹¢Ç3J$de99e7a6-693f-4594-b119-5c72d46a55cd
+m	java:S106"+Replace this use of System.out by a logger.(Úå­î8»‹¢Ç3J$f48d09fc-4a7d-4f05-be60-49765cd0bec5
+r	java:S106"+Replace this use of System.out by a logger.(‡Æ¹áüÿÿÿÿ8»‹¢Ç3J$667f67f0-f7f0-48f2-b4d1-4116084055ac
+m	java:S106"+Replace this use of System.out by a logger.(òÚŠ„8»‹¢Ç3J$210d29b8-8200-4d66-8748-707e4f14e95e
