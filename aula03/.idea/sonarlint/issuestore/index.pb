@@ -13,3 +13,6 @@ A
 src/Exemplos.java,3\5\35f75502cee2a35023a89755c89753e580b7fd96
 A
 src/Fatorial.java,3\9\395213bc4732fd7b8c97754e52ded0885269b651
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
