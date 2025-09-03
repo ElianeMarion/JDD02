@@ -11,3 +11,5 @@ G
 src/MomentoHandsOn.java,e\2\e2158d0af101326bdfcb2580a58258c54b16e5ca
 I
 src/ManipulandoVetor.java,9\d\9d704f42e464a60a4eb81f62b28d789e599bf90a
+>
+src/Teste.java,8\0\8028726a8f56d4dbaf93cf3ab711a7d471956aea
